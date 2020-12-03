@@ -17,7 +17,7 @@ I do not know about you, but I need to get up from my chair, couch, stool and st
 
 [INSERT LINK] 
 
-**Teams Background Downloads**
+**Teams Background Downloads & Digital Stickers**
 
 Enter your next meeting with a creative and fun background. Download these free Microsoft Teams backgrounds and use whenever you would like. 
 
