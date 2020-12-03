@@ -1,33 +1,31 @@
-# Project
+# Learn Together - Developing Apps for Teams
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Learn Together - Developing Apps for Teams is a free, two-hour livestream event for developers by developers. There are 115+ million Teams daily active users. That is millions of new users that developers can reach when they develop apps for Teams.
 
-As the maintainer of this project, please make a few updates:
+At this event, let's talk app dev for Microsoft Teams. 
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Visit [Learn Together - Developing Apps for Teams](http://aka.ms/learntogether) to learn more and stream LIVE on [Learn TV](http://aka.ms/learntv).
 
-## Contributing
+## What you will learn
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Millions of new Microsoft Teams users are looking to you, the developers, to create engaging and unique application experiences on Teams. In this two-hour livestream on Learn TV, you’ll learn:
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+•  Why you should consider building apps for Teams
+•  How to get started building apps for Teams in VS Code
+•  Where you can integrate your apps in the Teams user experience
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+Quickly get started learning how to build these apps and stick around for some fun trivia and prizes.
 
-## Trademarks
+## Missed the event or cannot attend live?
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+Between the learning, work, family, fitness, reading, sleeping, binge-watching...we get it. Time is limited and priceless. That is why we will have this event available for on-demand to stream when you are available. Visit [Channel 9](https://channel9.msdn.com/Events/Microsoft-Learn/Learn-Together-Developing-Apps-for-Teams) where you can view this event and more on-demand content. 
+
+Still interested in getting more information during your own time? You can visit [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=m365-9410-cxa) at any time to go through modules, read relevant documentation, and stream live content on [Learn TV](http://aka.ms/learntv). 
+
+## Keep learning more
+
+Start learning more today by visiting [Microsoft Learn's Microsoft Teams Developer Documentation](https://docs.microsoft.com/en-us/microsoftteams/platform/?WT.mc_id=m365-9410-cxa). 
+
+Interested in some friendly competition? We will be offering prizes for those that complete the [Teams Learn Challenge](aka.ms/teamslearnchallenge) beginning on December 16, 2020 until January 15, 2021.
+
+Follow [@LearnTV](https://twitter.com/LearnTV) on Twitter to stay in touch about this event (#LearnTogether) and future events and streams on [Learn TV](http://aka.ms/learntv).
