@@ -1,4 +1,5 @@
-# Learn Together - Developing Apps for Teams (Digital Swag and Prizes) 
+# Learn Together - Developing Apps for Teams
+# Digital Swag and Prizes
 
 ## Digital Swag
 
@@ -35,3 +36,13 @@ No printer and do not want the paper to go to waste? Check out the [digital vers
 [INSERT LINK]
 
 ## Digital Prizes
+
+There are a lot of exciting things in life - free events, ways to learn more, and PRIZES! We will be randomly selecting Learn Together: Developing Apps for Teams attendees and Teams Learn Challenge participants to win free prizes. Prizes include:
+
+**XBox 12-Month Ultimate Game Passes**
+
+**Xbox 6-Month Game Passes**
+
+**Up Your Genius by Bridget Quigg**
+
+*Please note: To enter, you simply have to stream the Learn Together: Developing Apps for Teams event and complete the Teams Learn Challenge within 30 days of the event livebroadcast. You can do just one, but both increases your chances to be randomly selected by the relevant hosts and event organizers. We are not responsible for disputed, lost, late, damanges, or incomplete entries. Please view the Terms and Conditions portion of this repo to learn more.*
