@@ -31,7 +31,9 @@ No printer and do not want the paper to go to waste? Not a problem! The activity
 
 ## Digital Prizes
 
-There are a lot of exciting things in life - free events, ways to learn more, and PRIZES! We will be randomly selecting Learn Together: Developing Apps for Teams attendees and Teams Learn Challenge participants to win free prizes. Prizes include:
+There are a lot of exciting things in life - free events, ways to learn more, and PRIZES! We will be randomly selecting Learn Together: Developing Apps for Teams attendees and Teams Learn Challenge participants to win free prizes. 
+
+Prizes include:
 
 **XBox 12-Month Ultimate Game Passes**
   
