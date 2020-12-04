@@ -22,6 +22,14 @@ Between the learning, work, family, fitness, reading, sleeping, binge-watching..
 
 Still interested in getting more information during your own time? You can visit [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=m365-9410-cxa) at any time to go through modules, read relevant documentation, and stream live content on [Learn TV](http://aka.ms/learntv). 
 
+## Participate in the Teams Learn Challenge
+
+Interested in some friendly competition? We will be offering prizes for those that complete the [Teams Learn Challenge](aka.ms/teamslearnchallenge) beginning on December 16, 2020 until January 13, 2021.
+
+While completing the challenge, use these [resources](https://docs.microsoft.com/en-us/microsoftteams/platform/?WT.mc_id=m365-9410-cxa) to help you if you get stuck.
+
+Tweet us at [@LearnTV](https://twitter.com/LearnTV) with the #LearnTogether and tag [@MicrosoftTeams](https://twitter.com/MicrosoftTeams) and [@Microsoft365](https://twitter.com/Microsoft365) if questions come up.
+
 ## Keep learning more
 
 Start learning more today by visiting [Microsoft Learn's Microsoft Teams Developer Documentation](https://docs.microsoft.com/en-us/microsoftteams/platform/?WT.mc_id=m365-9410-cxa). 
