@@ -10,9 +10,9 @@ Visit [Learn Together - Developing Apps for Teams](http://aka.ms/learntogether) 
 
 Millions of new Microsoft Teams users are looking to you, the developers, to create engaging and unique application experiences on Teams. In this two-hour livestream on Learn TV, you’ll learn:
 
-•  Why you should consider building apps for Teams
-•  How to get started building apps for Teams in VS Code
-•  Where you can integrate your apps in the Teams user experience
+- Why you should consider building apps for Teams
+- How to get started building apps for Teams in VS Code
+- Where you can integrate your apps in the Teams user experience
 
 Quickly get started learning how to build these apps and stick around for some fun trivia and prizes.
 
