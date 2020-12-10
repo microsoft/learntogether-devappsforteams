@@ -21,7 +21,7 @@ Enter your next meeting with a creative and fun background. [Download these free
 
 **VS Code Theme**
 
-Link coming soon. 
+[Download](https://marketplace.visualstudio.com/items?itemName=MSFTLearnTogether.learn-together-color-theme) a custom VS Code theme for Microsoft Teams developers and anyone who appreciates the Teams purple color scheme. 
 
 **Digital Kids Pack**
 
