@@ -16,6 +16,17 @@ Millions of new Microsoft Teams users are looking to you, the developers, to cre
 
 Quickly get started learning how to build these apps and stick around for some fun trivia and prizes.
 
+## Sample App - Integrating an Application into Teams
+
+You can find the sample application shown at the beginning of the Learn Together event at https://github.com/microsoft/DevAppsForTeams. This app demonstrates how to integrate a Web application into Teams and demonstrates the following features:
+
+- [Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/) and [Microsoft Authentication Library](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview) (MSAL) when the app runs outside of Teams
+- [Single Single-On](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso) when the app runs inside of Teams
+- Use of the [Teams JavaScript client SDK](https://docs.microsoft.com/en-us/javascript/api/overview/msteams-client?view=msteams-client-js-latest)
+- Teams app [custom tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs)
+- [Bots](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/what-are-bots) that leverage [LUIS and QnA Maker Azure Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/what-are-cognitive-services#language-apis)
+- App to bot communication
+
 ## Missed the event or cannot attend live?
 
 Between the learning, work, family, fitness, reading, sleeping, binge-watching...we get it. Time is limited and priceless. That is why we will have this event available for on-demand to stream when you are available. Visit [Channel 9](https://channel9.msdn.com/Events/Microsoft-Learn/Learn-Together-Developing-Apps-for-Teams) where you can view this event and more on-demand content. 
