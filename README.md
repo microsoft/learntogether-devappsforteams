@@ -20,16 +20,16 @@ Quickly get started learning how to build these apps and stick around for some f
 
 You can find the sample application shown at the beginning of the Learn Together event at https://github.com/microsoft/DevAppsForTeams. This app demonstrates how to integrate a Web application into Teams and demonstrates the following features:
 
-- [Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/) and [Microsoft Authentication Library](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview) (MSAL) when the app runs outside of Teams
-- [Single Single-On](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso) when the app runs inside of Teams
-- Use of the [Teams JavaScript client SDK](https://docs.microsoft.com/en-us/javascript/api/overview/msteams-client?view=msteams-client-js-latest)
-- Teams app [custom tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs)
-- [Bots](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/what-are-bots) that leverage [LUIS and QnA Maker Azure Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/what-are-cognitive-services#language-apis)
+- [Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/?WT.mc_id=m365-11189-cxa) and [Microsoft Authentication Library](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview/?WT.mc_id=m365-11189-cxa) (MSAL) when the app runs outside of Teams
+- [Single Single-On](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso/?WT.mc_id=m365-11189-cxa) when the app runs inside of Teams
+- Use of the [Teams JavaScript client SDK](https://docs.microsoft.com/en-us/javascript/api/overview/msteams-client?view=msteams-client-js-latest/?WT.mc_id=m365-11189-cxa)
+- Teams app [custom tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs/?WT.mc_id=m365-11189-cxa)
+- [Bots](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/what-are-bots/?WT.mc_id=m365-11189-cxa) that leverage [LUIS and QnA Maker Azure Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/what-are-cognitive-services#language-apis/?WT.mc_id=m365-11189-cxa)
 - App to bot communication
 
 ## Missed the event or cannot attend live?
 
-Between the learning, work, family, fitness, reading, sleeping, binge-watching...we get it. Time is limited and priceless. That is why we will have this event available for on-demand to stream when you are available. Visit [Channel 9](https://channel9.msdn.com/Events/Microsoft-Learn/Learn-Together-Developing-Apps-for-Teams) where you can view this event and more on-demand content. 
+Between the learning, work, family, fitness, reading, sleeping, binge-watching...we get it. Time is limited and priceless. That is why we will have this event available for on-demand to stream when you are available. Visit [Channel 9](https://channel9.msdn.com/Events/Microsoft-Learn/Learn-Together-Developing-Apps-for-Teams/?WT.mc_id=m365-11189-cxa) where you can view this event and more on-demand content. 
 
 Still interested in getting more information during your own time? You can visit [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=m365-9410-cxa) at any time to go through modules, read relevant documentation, and stream live content on [Learn TV](http://aka.ms/learntv). 
 
