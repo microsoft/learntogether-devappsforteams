@@ -35,7 +35,7 @@ Still interested in getting more information during your own time? You can visit
 
 ## Participate in the Teams Learn Challenge
 
-Interested in some friendly competition? We will be offering prizes for those that complete the [Teams Learn Challenge](http://aka.ms/teamslearnchallenge) beginning on December 16, 2020 until January 13, 2021.
+Interested in some friendly competition? We will be offering prizes for those that complete and finish the [Teams Learn Challenge](http://aka.ms/teamslearnchallenge) beginning on December 16, 2020 until January 13, 2021.
 
 While completing the challenge, use these [resources](https://docs.microsoft.com/en-us/microsoftteams/platform/?WT.mc_id=m365-9410-cxa) to help you if you get stuck.
 
