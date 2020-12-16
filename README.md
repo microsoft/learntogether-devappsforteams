@@ -45,6 +45,6 @@ Tweet us at [@LearnTV](https://twitter.com/LearnTV) with the #LearnTogether and 
 
 Start learning more today by visiting [Microsoft Learn's Microsoft Teams Developer Documentation](https://docs.microsoft.com/en-us/microsoftteams/platform/?WT.mc_id=m365-9410-cxa). 
 
-Interested in some friendly competition? We will be offering prizes for those that complete the [Teams Learn Challenge](aka.ms/teamslearnchallenge) beginning on December 16, 2020 until January 15, 2021.
+Interested in some friendly competition? We will be offering prizes for those that complete the [Teams Learn Challenge](https://aka.ms/teamslearnchallenge) beginning on December 16, 2020 until January 15, 2021.
 
 Follow [@LearnTV](https://twitter.com/LearnTV) on Twitter to stay in touch about this event (#LearnTogether) and future events and streams on [Learn TV](http://aka.ms/learntv).
