@@ -41,7 +41,7 @@ Be one of the first 10 participants to complete the [Teams Learn Challenge](http
   
 **Xbox 6-Month Game Passes**
 
-Be one of the first 35 participants to complete the [Teams Learn Challenge](http://aka.ms/teamslearnchallenge) and you will be entered to win a Xbox 6-Month Game Pass! The [Teams Learn Challenge](http://aka.ms/teamslearnchallenge) starts at 11:00 AM PT on December 16th and will be active for exactly 4 weeks. Learn more about [Xbox Game Passes](https://www.xbox.com/en-US/xbox-game-pass).
+Be one of the first 11 - 35 participants to complete the [Teams Learn Challenge](http://aka.ms/teamslearnchallenge) and you will be entered to win a Xbox 6-Month Game Pass! The [Teams Learn Challenge](http://aka.ms/teamslearnchallenge) starts at 11:00 AM PT on December 16th and will be active for exactly 4 weeks. Learn more about [Xbox Game Passes](https://www.xbox.com/en-US/xbox-game-pass).
 
 **Up Your Genius by Bridget Quigg**
 
