@@ -27,13 +27,13 @@ For events: If you are attending the Event in your capacity as an employee, it i
 To enter, you simply have to finish the [Teams Learn Challenge](http://aka.ms/teamslearnchallenge) during the entry period. The first 35 challenge finishers will receive an Xbox Game Pass (first 10 receive a Xbox 12-Month Ultimate Pass and first 11 - 35 receive a Xbox 6-Month Game Pass). 1000 challenge finishers will be randomly selected by the relevant hosts and event organizers to win a FREE e-book.
 
 Participants may NOT engage or promote, as determined by us in our sole and absolute discretion, any content that:
-•	is sexually explicit, unnecessarily violent or derogatory of any ethnic, racial, gender, religious, professional or age group; 
-•	is profane or pornographic;
-•	promotes alcohol, illegal drugs, tobacco, firearms/weapons (or the use of any of the foregoing) or a political agenda;
-•	is obscene or offensive;
-•	defames, misrepresents or contains disparaging remarks about other people or companies;
-•	communicates messages or images inconsistent with the positive images and/or good will with which we wish to associate; and/or 
-•	violates any law.
+* is sexually explicit, unnecessarily violent or derogatory of any ethnic, racial, gender, religious, professional or age group; 
+* is profane or pornographic;
+* promotes alcohol, illegal drugs, tobacco, firearms/weapons (or the use of any of the foregoing) or a political agenda;
+* is obscene or offensive;
+* defames, misrepresents or contains disparaging remarks about other people or companies;
+* communicates messages or images inconsistent with the positive images and/or good will with which we wish to associate; and/or 
+* violates any law.
 
 We are not responsible for excess, lost, late, damaged, or incomplete entries. If disputed, entries will be deemed submitted by the authorised account holder of the email address, social media profile, or other method used to enter. 
 
@@ -54,11 +54,11 @@ The decisions of the hosts and event organizers are final and binding. If we do 
 ## 8. PRIZES
 
 Prizes include:
-- XBox 12-Month Ultimate Game Passes: Be one of the first 10 to complete the Teams Learn Challenge and you will be entered to win a XBox 12-Month Ultimate Game Pass! The Teams Learn Challenge starts at 11:00 AM PT on December 16th and will be active for exactly 4 weeks. Learn more about XBox Game Passes.
+- XBox 12-Month Ultimate Game Passes: Be one of the first 10 to complete the Teams Learn Challenge and you will be entered to win a XBox 12-Month Ultimate Game Pass! The Teams Learn Challenge starts at 11:00 AM PT on December 16th and will be active for exactly 4 weeks. Learn more about [XBox Game Passes](https://www.xbox.com/en-US/xbox-game-pass).
 
-- Xbox 6-Month Game Passes: Be one of the first 11 - 35 to complete the Teams Learn Challenge and you will be entered to win a XBox 6-Month Game Pass! The Teams Learn Challenge starts at 11:00 AM PT on December 16th and will be active for exactly 4 weeks. Learn more about XBox Game Passes.
+- Xbox 6-Month Game Passes: Be one of the first 11 - 35 to complete the Teams Learn Challenge and you will be entered to win a XBox 6-Month Game Pass! The Teams Learn Challenge starts at 11:00 AM PT on December 16th and will be active for exactly 4 weeks. Learn more about [XBox Game Passes](https://www.xbox.com/en-US/xbox-game-pass).
 
-- Up Your Genius by Bridget Quigg: Be one of the first 1000 participants to complete the Teams Learn Challenge and you will be entered to win a copy of Bridget's e-book, Up Your Genius: A Workbook Designed to Make You Believe You Are Creative! The Teams Learn Challenge starts at 11:00 AM PT on December 16th and will be active for exactly 4 weeks. 
+- Up Your Genius by Bridget Quigg: Be one of the first 1000 participants to complete the Teams Learn Challenge and you will be entered to win a copy of Bridget's e-book, [Up Your Genius: A Workbook Designed to Make You Believe You Are Creative!](https://www.amazon.com/Up-Your-Genius-Workbook-Designed/dp/B0875Z2WW4) The Teams Learn Challenge starts at 11:00 AM PT on December 16th and will be active for exactly 4 weeks. 
 
 We will attempt to award one (1) prize(s) per winning entrant, but cannot guarantee one prize per person. If there are any regional limitations to either the Xbox Game Pass or e-book, we will not provide an alternate prize of the same value. No more than the stated number of prizes will be awarded. No substitution, transfer, or assignment of prize permitted. Prize winners may be required to complete and return prize claim and / or tax forms (“Forms”) within the deadline stated in the winner notification. The prize(s) may be considered a taxable benefit to the winner(s). Taxes on the prize, if any, are the sole responsibility of the winner, who is advised to seek independent counsel regarding the tax implications of accepting a prize. By accepting a prize, you agree that Microsoft may use your entry, name, image and hometown online and in print, or in any other media, in connection with this Contest without payment or compensation to you, except where prohibited by law.
 
@@ -84,9 +84,9 @@ We will be able to obtain the list of winners through the Cloud Skills Challenge
 
 At Microsoft, we are committed to protecting your privacy. Microsoft uses the information you provide to notify you of important information about our products, upgrades and enhancements, and to send you information about other Microsoft products and services. Microsoft will not share the information you provide with third parties without your permission except where necessary to complete the services, transactions, or prize delivery you have requested or participated in, or as required by law. Microsoft is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use, or disclosure. Your personal information is never shared outside the company without your permission, except under conditions explained above. 
 
-By entering this challenge, you consent to the use of your information as described in these Rules. You may access and/or change your data by following the procedures in Microsoft’s privacy policy, which is available at www.microsoft.com/privacystatement. 
+By entering this challenge, you consent to the use of your information as described in these Rules. You may access and/or change your data by following the procedures in Microsoft’s privacy policy, which is available at [www.microsoft.com/privacystatement](http://www.microsoft.com/privacystatement). 
 
-If you believe that Microsoft has not adhered to this statement, please contact Microsoft by sending an email to  privrc@microsoft.com or postal mail to Microsoft Privacy Response Center, Microsoft Corporation, One Microsoft Way, Redmond, Washington, USA, 98052.
+If you believe that Microsoft has not adhered to this statement, please contact Microsoft by sending an email to [privrc@microsoft.com](mailto:privrc@microsoft.com) or postal mail to Microsoft Privacy Response Center, Microsoft Corporation, One Microsoft Way, Redmond, Washington, USA, 98052.
 
 ## 12. GOVERNING LAW
 
