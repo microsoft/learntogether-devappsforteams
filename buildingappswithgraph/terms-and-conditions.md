@@ -24,7 +24,7 @@ For events: If you are attending the Event in your capacity as an employee, it i
 
 ## 5. HOW TO ENTER
 
-To enter, you simply have to finish the event specific [Microsoft Learn Challenge](http://aka.ms/challenge-graph) during the entry period. The first 20 challenge finishers will receive a gift card to select from a list designated by the event organizing team.
+To enter, you simply have to finish the event specific [Microsoft Learn Challenge](http://aka.ms/challenge-graph) during the entry period. The randomly selected 20 (twenty) challenge finishers will receive a gift card to select from a list designated by the event organizing team.
 
 You must RSVP on the [event site](http://aka.ms/learntogether-graph) with the same email used to enter the [Microsoft Learn Challenge](http://aka.ms/challenge-graph) for the organizing team to distribute prizes to the winners. 
 
