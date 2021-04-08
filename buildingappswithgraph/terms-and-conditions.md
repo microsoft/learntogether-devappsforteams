@@ -12,7 +12,7 @@ In these Rules, “Microsoft”, “we”, “our”, and “us”, refer to Hos
 
 ## 3. ENTRY PERIOD
 
-The prize offering will operate at Learn Together during regular challenge hours, April 14 2:00 PM AEST to the end of the challenge (“Entry Period”).
+The prize offering will operate at Learn Together during regular challenge hours, April 14, 2021 to the end of the challenge on May 12, 2021 (“Entry Period”).
 
 ## 4. ELIGIBILITY
 
@@ -24,7 +24,9 @@ For events: If you are attending the Event in your capacity as an employee, it i
 
 ## 5. HOW TO ENTER
 
-To enter, you simply have to finish the event specific [Microsoft Learn Challenge](http://aka.ms/challenge-graph) during the entry period. The first 10 challenge finishers will receive a gift card to select from a list designated by the event organizing team.
+To enter, you simply have to finish the event specific [Microsoft Learn Challenge](http://aka.ms/challenge-graph) during the entry period. The first 20 challenge finishers will receive a gift card to select from a list designated by the event organizing team.
+
+You must RSVP on the [event site](http://aka.ms/learntogether-graph) with the same email used to enter the [Microsoft Learn Challenge](http://aka.ms/challenge-graph) for the organizing team to distribute prizes to the winners. 
 
 Participants may NOT engage or promote, as determined by us in our sole and absolute discretion, any content that:
 * is sexually explicit, unnecessarily violent or derogatory of any ethnic, racial, gender, religious, professional or age group; 
@@ -35,7 +37,7 @@ Participants may NOT engage or promote, as determined by us in our sole and abso
 * communicates messages or images inconsistent with the positive images and/or good will with which we wish to associate; and/or 
 * violates any law.
 
-We are not responsible for excess, lost, late, damaged, or incomplete entries. If disputed, entries will be deemed submitted by the authorised account holder of the email address, social media profile, or other method used to enter. 
+We are not responsible for excess, lost, late, damaged, or incomplete entries. If disputed, entries will be deemed submitted by the authorised account holder of the email address, social media profile, or other method used to enter. If the organizing team is unable to match the [Microsoft Learn Challenge](http://aka.ms/challenge-graph) username and email with the RSVP name and email, the team will be unable to send the prize communications and will transfer the prize to another recipient. The organizing team is not responsible for any errors that may prohibit prize distribution. 
 
 ## 6. USE OF ENTRIES
 
